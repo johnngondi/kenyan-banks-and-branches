@@ -2773,7 +2773,7 @@
         "id": 11,
         "name": "National Bank of Kenya Limited",
         "code": "12",
-        "paybill": null,
+        "paybill": "625625",
         "branches": [
             {
                 "name": "Central Business Unit",
