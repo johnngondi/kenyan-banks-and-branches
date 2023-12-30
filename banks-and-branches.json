@@ -2022,7 +2022,7 @@
         "id": 9,
         "name": "Prime Bank Limited",
         "code": "10",
-        "paybill": null,
+        "paybill": 982800,
         "branches": [
             {
                 "name": "H\/o Riverside ",
