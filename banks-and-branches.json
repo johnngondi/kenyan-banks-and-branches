@@ -3086,7 +3086,7 @@
         "id": 12,
         "name": "Oriental Commercial Bank Limited",
         "code": "14",
-        "paybill": null,
+        "paybill": "986500",
         "branches": [
             {
                 "name": "Head Office ",
@@ -3134,7 +3134,7 @@
         "id": 13,
         "name": "Citibank N.A.",
         "code": "16",
-        "paybill": null,
+        "paybill": "100229",
         "branches": [
             {
                 "name": "Head Office - Nairobi ",
@@ -3223,7 +3223,7 @@
         "id": 16,
         "name": "Bank of  Africa Kenya Limited",
         "code": "19",
-        "paybill": null,
+        "paybill": "972900",
         "branches": [
             {
                 "name": "Reinsurance Plaza Nairobi ",
@@ -4291,7 +4291,7 @@
         "id": 27,
         "name": "ECO Bank Limited",
         "code": "43",
-        "paybill": null,
+        "paybill": "700201",
         "branches": [
             {
                 "name": "Fedha Branch - Head Office ",
@@ -6691,7 +6691,7 @@
         "id": 42,
         "name": "Gulf African Bank Ltd",
         "code": "72",
-        "paybill": null,
+        "paybill": "985050",
         "branches": [
             {
                 "name": "Head Office ",
