@@ -2022,7 +2022,7 @@
         "id": 9,
         "name": "Prime Bank Limited",
         "code": "10",
-        "paybill": null,
+        "paybill": "982800",
         "branches": [
             {
                 "name": "H\/o Riverside ",
@@ -2773,7 +2773,7 @@
         "id": 11,
         "name": "National Bank of Kenya Limited",
         "code": "12",
-        "paybill": null,
+        "paybill": ",
         "branches": [
             {
                 "name": "Central Business Unit",
