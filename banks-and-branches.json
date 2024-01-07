@@ -916,7 +916,7 @@
         "id": 2,
         "name": "Standard Chartered Bank Kenya Limited",
         "code": "02",
-        "paybill": null,
+        "paybill": "3293229",
         "branches": [
             {
                 "name": "Eldoret ",
@@ -1114,7 +1114,7 @@
         "id": 3,
         "name": "Absa Bank Kenya  Limited",
         "code": "03",
-        "paybill": null,
+        "paybill": "303030",
         "branches": [
             {
                 "name": "Head Office - Vpc ",
@@ -1808,7 +1808,7 @@
         "id": 6,
         "name": "NCBA BANK KENYA PLC",
         "code": "07",
-        "paybill": null,
+        "paybill": "880100",
         "branches": [
             {
                 "name": "Head Office",
