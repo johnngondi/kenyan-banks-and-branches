@@ -3404,7 +3404,7 @@
         "id": 18,
         "name": "Consolidated Bank of Kenya Limited",
         "code": "23",
-        "paybill": null,
+        "paybill": "508400",
         "branches": [
             {
                 "name": "Harambee Avenue ",
@@ -3997,7 +3997,7 @@
         "id": 24,
         "name": "Imperial Bank Limited",
         "code": "39",
-        "paybill": null,
+        "paybill": "800100",
         "branches": [
             {
                 "name": "IPS",
@@ -4120,7 +4120,7 @@
         "id": 25,
         "name": "NIC Bank Limited",
         "code": "41",
-        "paybill": null,
+        "paybill": "488488",
         "branches": [
             {
                 "name": "Head Office",
@@ -4291,7 +4291,7 @@
         "id": 27,
         "name": "ECO Bank Limited",
         "code": "43",
-        "paybill": null,
+        "paybill": "700201",
         "branches": [
             {
                 "name": "Fedha Branch - Head Office ",
@@ -4545,7 +4545,7 @@
         "id": 30,
         "name": "Jamii Bora Bank",
         "code": "51",
-        "paybill": null,
+        "paybill": "529901",
         "branches": [
             {
                 "name": "Head Office ",
@@ -5074,7 +5074,7 @@
         "id": 38,
         "name": "Diamond Trust Bank Limited",
         "code": "63",
-        "paybill": null,
+        "paybill": "516801",
         "branches": [
             {
                 "name": "Head Office ",
@@ -5172,7 +5172,7 @@
                 "bank_id": 38
             },
             {
-                "name": "Bungoma ",
+      3          "name": "Bungoma ",
                 "code": "021",
                 "bank_id": 38
             },
@@ -5530,7 +5530,7 @@
         "id": 40,
         "name": "Equity Bank Limited",
         "code": "68",
-        "paybill": null,
+        "paybill": "247247",
         "branches": [
             {
                 "name": "Equity Bank Head Office ",
